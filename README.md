@@ -1,4 +1,4 @@
-# Effect of different NRB types on the CARS Data Analysis 
+# Effect of NRB on CARS data analysis 
 
 Paper title: "Effect of non-resonant background on the extraction of Raman signals from CARS spectra using deep neural networks", DOI: https://doi.org/10.1039/D2RA03983D
 
