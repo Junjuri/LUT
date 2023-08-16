@@ -42,8 +42,8 @@ RSS_Advances_CNN_prediction_on_test_data.py
 ## Getting Started and Requirements 
 You can use Python (TensorFlow 2.7.0) to test the pre-trained network. We have tested it in Spyder.
 
-## Article can be found here
-https://scholar.google.co.in/citations?view_op=view_citation&hl=en&user=BRu_wuAAAAAJ&sortby=pubdate&citation_for_view=BRu_wuAAAAAJ:ULOm3_A8WrAC
-
 ## Article can be cited as
 Junjuri, R., Saghi, A., Lensu, L., & Vartiainen, E. M. (2022). Effect of non-resonant background on the extraction of Raman signals from CARS spectra using deep neural networks. RSC advances, 12(44), 28755-28766.
+
+## More related articles can be found here
+https://scholar.google.co.in/citations?hl=en&user=BRu_wuAAAAAJ&view_op=list_works&sortby=pubdate
