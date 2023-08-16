@@ -2,6 +2,8 @@
 
 By [Rajendhar junjuri](https://scholar.google.co.in/citations?user=BRu_wuAAAAAJ&hl=en)\, [Ali Saghi](https://scholar.google.co.in/citations?view_op=list_works&hl=en&hl=en&user=GcWhnFcAAAAJ),  [Lasse Lensu](https://scholar.google.co.in/citations?user=dk2Ezl0AAAAJ&hl=en&oi=ao), and [Erik M. Vartiainen](https://scholar.google.co.in/citations?user=zbxe2qYAAAAJ&hl=en&oi=ao) 
 
+Three different types of non-resonant backgrounds (NRBs) were explored to simulate the CARS spectra viz (1) product of two sigmoids following the original SpecNet model, (2) Single Sigmoid, and (3) fourth-order polynomial function.
+
 ## Article can be accessed from here
 DOI: https://doi.org/10.1039/D2RA03983D
 
