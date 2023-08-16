@@ -5,7 +5,7 @@ By [Rajendhar junjuri](https://scholar.google.co.in/citations?user=BRu_wuAAAAAJ&
 ## Article can be accessed from here
 DOI: https://doi.org/10.1039/D2RA03983D
 
-## Article can be cited as
+## Citation
 Junjuri, R., Saghi, A., Lensu, L., & Vartiainen, E. M. (2022). Effect of non-resonant background on the extraction of Raman signals from CARS spectra using deep neural networks. RSC advances, 12(44), 28755-28766.
 
 ## More related articles can be found here
