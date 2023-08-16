@@ -1,8 +1,9 @@
 ## Effect of non-resonant background on the extraction of Raman signals from CARS spectra using deep neural networks
 
-DOI: https://doi.org/10.1039/D2RA03983D
-
 By [Rajendhar junjuri](https://scholar.google.co.in/citations?user=BRu_wuAAAAAJ&hl=en)\, [Ali Saghi](https://scholar.google.co.in/citations?view_op=list_works&hl=en&hl=en&user=GcWhnFcAAAAJ),  [Lasse Lensu](https://scholar.google.co.in/citations?user=dk2Ezl0AAAAJ&hl=en&oi=ao), and [Erik M. Vartiainen](https://scholar.google.co.in/citations?user=zbxe2qYAAAAJ&hl=en&oi=ao) 
+
+## Article can be accessed from here
+DOI: https://doi.org/10.1039/D2RA03983D
 
 ## Article can be cited as
 Junjuri, R., Saghi, A., Lensu, L., & Vartiainen, E. M. (2022). Effect of non-resonant background on the extraction of Raman signals from CARS spectra using deep neural networks. RSC advances, 12(44), 28755-28766.
